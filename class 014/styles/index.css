@@ -1,0 +1,236 @@
+body {
+    width: 100%;
+}
+.headerleft {
+
+display: flex;
+gap: 1rem;
+justify-content: normal;
+align-items: center;
+/* width: 4%; */
+/* background-color: grey; */
+padding: 16px 16px 8px;
+}
+
+
+.headerright{
+display: flex;
+justify-content: right;
+margin-left: 15rem;
+}
+
+
+
+
+.fa {
+    color: white;
+}
+  
+div .fa-brands{
+    
+    color: black;
+}
+
+
+.header {
+    background-color: rgba(27, 19, 19, 0.801);
+}
+
+input.search {
+    width: 20rem;
+    height: 1.5rem;
+    border-radius: 0.3rem;
+    /* padding: 0.5rem 2rem; 
+     margin-left: 2rem;  */
+     
+}
+
+
+
+
+.place {
+    display: flex;
+    margin: 0rem 0rem 0rem 10rem;
+     gap: 2rem; 
+   
+}
+
+.class {
+    margin-left: 5rem;
+}
+
+.headermid .middle {
+    display: flex;
+    place-content: center;
+    align-items: space-between;
+    gap: 3rem;
+    background-color: red;
+    height: 50px;
+   
+}
+
+
+ span .popular{
+margin-top: 1rem;
+
+}
+
+.body {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 0.5rem;
+    border: 2px solid; 
+    margin: 0rem 4rem;
+    height: 90vh;
+}
+
+div span {
+    font-size: x-large;
+    color: rgb(51, 51, 185);
+   
+}
+
+
+/* .blue {
+    font-size: x-large;
+    color: rgb(51, 51, 185);
+} */
+
+/* .grey {
+    font-weight: 200;
+    color: grey;
+    padding 
+} */
+
+ img {
+    display: grid;
+    height: 18rem;
+    width: 18rem;
+    border-radius: 50%;
+    margin-top: -2rem;
+   
+}
+
+.follower {
+    font-size: medium;
+}
+
+.follow {
+    width: 20rem;
+    height: 2rem;
+    border-radius: 0.5rem;
+    border: ridge 1px grey;
+}
+
+
+.dot-one {
+    height: 15px;
+    width: 15px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    font-size: small;
+    
+}
+
+/* .doc-css {
+    padding-left: 1rem;
+}  */
+
+.middle {
+    margin-top: 1rem;
+}
+
+.border {
+    border: solid 1px;
+}
+
+div .boxone {
+    display: grid;
+    height: 8rem;
+    width: 25rem;
+    background-color: white;
+    border-radius: 0.5rem;
+    border: solid 1px grey;
+    
+}
+
+#assign {
+    display: grid;
+    color: rgb(63, 63, 218);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-size: small;
+    padding-left: 1rem;
+}
+
+ .created {
+    font-size: smaller;
+    color: grey;
+    font-family: 'Times New Roman';
+    padding-left: 1rem;
+    /* margin-top: 5rem; */
+    /* padding-bottom: 2rem; */
+} 
+
+p {
+    font-family: 'Times New Roman';
+    font-weight: 200;
+    color: grey;
+  
+}
+/* 
+.circle {
+    padding-left: 1rem;
+    
+   
+} */
+
+.boxtwo {
+    display: flex;
+    height: 8rem;
+    width: 25rem;
+    background-color: white;
+    border-radius: 0.5rem;
+    border: solid 1px grey;
+   margin-top: 1rem;
+   
+}
+
+div .psyblue {
+    display: flex;
+   justify-content: normal;
+    color: rgb(63, 63, 218);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-size: small;
+    padding-left: 1rem;
+    margin-top: 1rem;
+    /* gap: 2rem; */
+
+}
+.public-two {
+    display: flex;
+    margin-top: 1rem;
+    width: 3rem;
+    height: 1rem;
+    border: solid 1px grey;
+    border-radius: 5rem;
+    margin-left: 13rem;
+    padding-left: 0.5rem;
+    font-size: smaller;
+    color: grey;
+    font-family: 'Times New Roman';
+    color: grey;
+    /* justify-self: center; */
+}
+
+.psygrey {
+    
+   
+}
+
+
+
+    

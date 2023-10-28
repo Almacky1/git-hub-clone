@@ -1,0 +1,23 @@
+
+.headerleft {
+
+    display: flex;
+    gap: 1rem;
+    justify-content: normal;
+    align-items: center;
+    width: 50%;
+    background-color: grey;
+    padding: 16px 16px 8px;
+    }
+
+
+    
+.place {
+    display: flex;
+    margin-left: 15rem;
+    gap: 2rem;
+}
+
+.search {
+    margin-left: 5rem;
+}
